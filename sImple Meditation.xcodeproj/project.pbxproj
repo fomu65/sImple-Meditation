@@ -16,6 +16,7 @@
 		3E0A95CC23D5F2A10082373B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E0A95CA23D5F2A10082373B /* LaunchScreen.storyboard */; };
 		3E0A95D723D5F2A20082373B /* sImple_MeditationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E0A95D623D5F2A20082373B /* sImple_MeditationTests.swift */; };
 		3E0A95E223D5F2A20082373B /* sImple_MeditationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E0A95E123D5F2A20082373B /* sImple_MeditationUITests.swift */; };
+		3E0A95F023D5F2DB0082373B /* TimerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E0A95EF23D5F2DB0082373B /* TimerModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		3E0A95DD23D5F2A20082373B /* sImple MeditationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "sImple MeditationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E0A95E123D5F2A20082373B /* sImple_MeditationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sImple_MeditationUITests.swift; sourceTree = "<group>"; };
 		3E0A95E323D5F2A20082373B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3E0A95EF23D5F2DB0082373B /* TimerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				3E0A95BC23D5F29E0082373B /* AppDelegate.swift */,
 				3E0A95BE23D5F29E0082373B /* SceneDelegate.swift */,
 				3E0A95C323D5F29E0082373B /* ContentView.swift */,
+				3E0A95EF23D5F2DB0082373B /* TimerModel.swift */,
 				3E0A95C523D5F2A10082373B /* Assets.xcassets */,
 				3E0A95CA23D5F2A10082373B /* LaunchScreen.storyboard */,
 				3E0A95CD23D5F2A10082373B /* Info.plist */,
@@ -274,6 +277,7 @@
 				3E0A95BD23D5F29E0082373B /* AppDelegate.swift in Sources */,
 				3E0A95C423D5F29E0082373B /* ContentView.swift in Sources */,
 				3E0A95BF23D5F29E0082373B /* SceneDelegate.swift in Sources */,
+				3E0A95F023D5F2DB0082373B /* TimerModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

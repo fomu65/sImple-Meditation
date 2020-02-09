@@ -6,7 +6,7 @@
 //  Copyright © 2020 sImple apps. All rights reserved.
 //
 
-import XCTest
+/* import XCTest
 @testable import sImple_Meditation
 
 class sImple_MeditationTests: XCTestCase {
@@ -31,4 +31,4 @@ class sImple_MeditationTests: XCTestCase {
         }
     }
 
-}
+} */
